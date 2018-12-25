@@ -1,4 +1,4 @@
-# SOD2-Mods
+# State Of Decay 2 - Mods
 
 | **Mod Name** | **Description** | **Author** |
 | :--- | :--- | :--- |
@@ -12,4 +12,4 @@
 | Max Prestige | Rewards you 65k prestige for beating the first wave, unlocking the 50k prestige achievement and maxing your available prestige. | Heilos |
 | No Leadership Requirements Pack | Lets you remove leadershiip requirements from buildings. | Andrei Vasilevski |
 | No More Whoopsies | Stops survivors from destroying resources for no reason. | TylerY86 |
-| Vehicle Storage Pack | Changes the trunk storage capacity of every regular vehicle in State of Decay 2. | ColDisco |
+| Vehicle Storage Pack | Changes the trunk storage capacity of every regular vehicle. | ColDisco |
