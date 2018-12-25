@@ -1,7 +1,7 @@
 # SOD2-Mods
 
 | **Mod Name** | **Description** | **Author** |
-| :---: | :---: | :---: |
+| :--- | :--- | :--- |
 | Community Editor | Allows you to edit your community save file. | Heilos |
 | 420 Car Pack | Enables super speed, no impact damage and unlimited fuel on all cars. | Bulbasaur |
 | Better Cleo Drops (Daybreak) | Gives you better Cleo drops in daybreak mode. | XTheFallen0neX |
