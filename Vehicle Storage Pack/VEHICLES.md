@@ -1,5 +1,5 @@
 
-| Class | Ingame-name | Slots |
+| Vehicle Class | Vehicle Name | Trunk Slots |
 | :---: | :---: | :---: |
 | Coupe | Road Mangler |  8 |
 | Coupe | Road Racer | 6 |
