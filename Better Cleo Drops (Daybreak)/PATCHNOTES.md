@@ -2,4 +2,4 @@
 
 | **Version** | **Notes** |
 | :---: | :---: |
-| 1.0.1 | Fixed wave 4 crashes and make the file a zip. |
+| 1.0.1 | Fixed wave 4 crashes and made the file a zip. |
