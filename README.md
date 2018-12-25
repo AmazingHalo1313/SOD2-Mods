@@ -1,8 +1,8 @@
 # State Of Decay 2 - Mods
 
 | **Mod Name** | **Description** | **Author** |
-| :--- | :--- | :--- |
-| [420 Car Pack](420%20Vehicle%20Pack) | Enables super speed, no impact damage and unlimited fuel on all cars. | Bulbasaur |
+| :----------- | :-------------- | :--------- |
+| [420 Vehicle Pack](420%20Vehicle%20Pack) | Enables super speed, no impact damage and unlimited fuel on all cars. | Bulbasaur |
 | [Better Cleo Drops (Daybreak)](Better%20Cleo%20Drops%20(Daybreak)) | Gives you better Cleo drops in daybreak mode. | XTheFallen0neX |
 | [Community Editor](Community%20Editor) | Allows you to edit your community save file. | Heilos |
 | [Feral Mode Pack](Feral%20Mode%20Pack) | Changes zombie spawns to ferals. Light or Heavy versions available. | TylerY86 |
