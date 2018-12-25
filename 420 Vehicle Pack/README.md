@@ -25,6 +25,7 @@ Version: 2.1.0
 ## Acknowledgments
 
 * Special thanks to everyone who has contributed in one way or another.
+* Shout out to Heilos for identifying the acceleration values.
 
 ## Discord
 https://discord.gg/emhxg5d
