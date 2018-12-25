@@ -1,8 +1,8 @@
 # 420 Vehicle Pack
 
-This car pack enables super speed on all cars in the game with some cars being extremely fast. 
-It also gives you unlimited fuel. (Host only unfortunately, the other two work being host or not). 
-Thirdly, you should take no impact damage when running into objects.(Mainly prevents car from blowing up when super speeding into things). Zombies can still damage your car. 
+This car pack enables super speed on all cars in the game with some cars being extremely fast. It also gives you unlimited fuel. (Host only unfortunately, the other two work being host or not). Thirdly, you should take no impact damage when running into objects (Mainly prevents car from blowing up when super speeding into things). 
+
+Zombies can still damage your car. 
 
 *Independence DLC Cars included.
 
