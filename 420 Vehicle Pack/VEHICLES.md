@@ -1,4 +1,4 @@
 
-| Class | VehicleName |
+| Vehicle Class | Vehicle Name |
 | :---: | :---: |
 | VehicleClass | VehicleName |
