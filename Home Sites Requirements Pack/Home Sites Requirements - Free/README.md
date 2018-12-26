@@ -1,8 +1,6 @@
-# 420 Car Pack
+# Home Sites Requirements - Free
 
-This Mod changes the speed and handling of some vehicles.
-
-*Independence DLC Cars included.
+This mod changes influence cost and population requirement for home sites to free.
 
 ## Getting Started
 
@@ -14,11 +12,11 @@ Copy the Cooked folder into %LocalAppData%\Packages\Microsoft.Dayton_8wekyb3d8bb
 
 ## Versioning
 
-Version: 2.1.0 
+Version: 1.0.0 
 
 ## Authors
 
-* **Bulbasaur420** - *Creator*
+* **Andrei Vasilevski** - *Creator*
 
 ## Acknowledgments
 

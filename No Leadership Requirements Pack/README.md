@@ -1,6 +1,6 @@
 # No Leadership Requirements Pack
 
-This mod lets you remove leadershiip requirements from buildings. 
+This mod lets you remove leadership requirements from buildings. Facilities Only or Full versions available.
 
 Facilities Only or Full version available.
 
@@ -10,7 +10,7 @@ Start by extracting the zip file provided.
 
 ### Installing
 
-Copy the Cooked folder into %LocalAppData%\Packages\Microsoft.Dayton_8wekyb3d8bbwe\LocalState\StateOfDecay2\Saved\
+Copy the Cooked folder of the mod you want into %LocalAppData%\Packages\Microsoft.Dayton_8wekyb3d8bbwe\LocalState\StateOfDecay2\Saved\
 
 ## Versioning
 
