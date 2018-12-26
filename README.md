@@ -10,6 +10,6 @@
 | [Instant Searching](Instant%20Searching) | Makes searching a container instant. | Andrei Vasilevski |
 | [Juggernaut Mode Pack](Juggernaut%20Mode%20Pack) | Changes zombie spawns to juggernauts. Light or Heavy versions available. | Bulbasaur |
 | [Max Prestige](Max%20Prestige) | Rewards you 65k prestige for beating the first wave, unlocking the 50k prestige achievement and maxing your available prestige. | Heilos |
-| [No Leadership Requirements Pack](No%20Leadership%20Requirements%20Pack) | Lets you remove leadershiip requirements from buildings. | Andrei Vasilevski |
+| [No Leadership Requirements Pack](No%20Leadership%20Requirements%20Pack) | Lets you remove leadership requirements from buildings. | Andrei Vasilevski |
 | [No More Whoopsies](No%20More%20Whoopsies) | Stops survivors from destroying resources for no reason. | TylerY86 |
 | [Vehicle Storage Pack](Vehicle%20Storage%20Pack) | Changes the trunk storage capacity of every regular vehicle. | ColDisco |
