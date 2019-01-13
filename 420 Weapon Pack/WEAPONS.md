@@ -1,4 +1,4 @@
 
-| Vehicle Class | Vehicle Name |
+| Weapon Type | Weapon Name |
 | :---: | :---: |
-| VehicleClass | VehicleName |
+| Weapon Type | Weapon Name |

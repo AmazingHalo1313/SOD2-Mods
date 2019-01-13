@@ -1,10 +1,10 @@
-# 420 Vehicle Pack
+# 420 Weapon Pack
 
-This car pack enables super speed on all cars in the game with some cars being extremely fast. It also gives you unlimited fuel. (Host only unfortunately, the other two work being host or not). Thirdly, you should take no impact damage when running into objects (Mainly prevents car from blowing up when super speeding into things). 
+Modified over 30 existing weapons. Use the Read Me file provided in download to see all the weapons modified with this. The guns feature increased stats, rapid fire, unlimited ammo, unlimited durability, no spread, and max quietness. The melee weapons feature increased stats, unlimited durability, and no stamina cost to swing them.  
 
-Zombies can still damage your car. 
+*You must be using the specific weapons for it to take effect. (all listed in read me file) 
 
-*Independence DLC Cars included.
+*This edits existing weapons doesn't add new ones!
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ Copy the Cooked folder into %LocalAppData%\Packages\Microsoft.Dayton_8wekyb3d8bb
 
 ## Versioning
 
-Version: 2.1.0 
+Version: 2.3.0 
 
 ## Authors
 
@@ -25,7 +25,6 @@ Version: 2.1.0
 ## Acknowledgments
 
 * Special thanks to everyone who has contributed in one way or another.
-* Shout out to Heilos for identifying the acceleration values.
 
 ## Discord
 https://discord.gg/emhxg5d
