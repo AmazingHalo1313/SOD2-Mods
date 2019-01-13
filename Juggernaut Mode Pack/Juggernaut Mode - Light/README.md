@@ -1,6 +1,6 @@
 # Juggernaut Mode Light
 
-This mod adds more Juggernauts whilst still keeping other zombie spawns.
+This mod changes zombie spawns to all juggernauts.
 
 ## Getting Started
 
@@ -8,11 +8,11 @@ Start by extracting the zip file provided.
 
 ### Installing
 
-Copy the Paks folder into %LocalAppData%\Packages\Microsoft.Dayton_8wekyb3d8bbwe\LocalState\StateOfDecay2\Saved\
+Copy the Cooked folder into %LocalAppData%\Packages\Microsoft.Dayton_8wekyb3d8bbwe\LocalState\StateOfDecay2\Saved\
 
 ## Versioning
 
-Version: 1.0.0 
+Version: 4.2.0 
 
 ## Authors
 

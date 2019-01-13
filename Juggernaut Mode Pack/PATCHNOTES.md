@@ -2,4 +2,4 @@
 
 | **Version** | **Notes** |
 | :---: | :---: |
-| 1.0.0 | Dummy notes here. Please change when you patch the mod. |
+| 4.2.0 | Updated Juggernaut mode as was previously broken from zedhunter update. |

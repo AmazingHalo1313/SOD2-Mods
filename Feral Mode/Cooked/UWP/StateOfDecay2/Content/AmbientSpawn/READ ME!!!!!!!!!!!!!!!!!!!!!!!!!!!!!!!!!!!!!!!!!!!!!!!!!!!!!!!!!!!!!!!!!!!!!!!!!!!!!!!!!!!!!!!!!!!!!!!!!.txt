@@ -1,0 +1,9 @@
+installing the mod files for dummies
+
+1. find this file path %LocalAppData%\Microsoft.Dayton_8wekyb3d8bbwe\LocalState\StateOfDecay2\Saved\Cooked\
+ 
+2. Drag and drop or copy and paste the UWP Folder into the Cooked Folder
+
+3. now start your game and enjoy a bunch of ferals spawning
+
+the original creator feral mode is TylerY86 and i used some of Bulbasaur's files

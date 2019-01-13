@@ -1,6 +1,6 @@
-# Juggernaut Mode Heavy
+# Feral Mode
 
-This mod changes zombie spawns to all juggernauts and then cranks it up some.
+This mod changes zombie spawns to ferals. 
 
 ## Getting Started
 
@@ -12,15 +12,12 @@ Copy the Cooked folder into %LocalAppData%\Packages\Microsoft.Dayton_8wekyb3d8bb
 
 ## Versioning
 
-Version: 4.2.0 
+Version: 2.0.0 
 
 ## Authors
 
-* **Bulbasaur** - *Creator*
-
-## Acknowledgments
-
-* Special thanks to TylerY86, Toasty, and Andrei Vasilevski.
+* **TylerY86** - *Original Creator*
+* **XTheFallen0neX** - *Updater*
 
 ## Discord
 https://discord.gg/emhxg5d

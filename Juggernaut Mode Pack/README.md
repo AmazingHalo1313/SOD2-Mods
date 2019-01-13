@@ -8,11 +8,11 @@ Start by extracting the zip file provided.
 
 ### Installing
 
-Copy the Paks folder of the mod you want into %LocalAppData%\Packages\Microsoft.Dayton_8wekyb3d8bbwe\LocalState\StateOfDecay2\Saved\
+Copy the Cooked folder of the mod you want into %LocalAppData%\Packages\Microsoft.Dayton_8wekyb3d8bbwe\LocalState\StateOfDecay2\Saved\
 
 ## Versioning
 
-Version: 1.0.0 
+Version: 4.2.0 
 
 ## Authors
 
