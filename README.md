@@ -13,5 +13,5 @@
 | [Max Prestige](https://github.com/JDimensional/SOD2-Mods/raw/master/Max%20Prestige.zip) | Rewards you 65k prestige for beating the first wave, unlocking the 50k prestige achievement and maxing your available prestige. | Heilos |
 | [No Leadership Requirements Pack](https://github.com/JDimensional/SOD2-Mods/raw/master/No%20Leadership%20Requirements%20Pack.zip) | Lets you remove leadership requirements from buildings. | Andrei Vasilevski |
 | [No More Whoopsies](https://github.com/JDimensional/SOD2-Mods/raw/master/No%20More%20Whoopsies.zip) | Stops survivors from destroying resources for no reason. | TylerY86 |
-| [Realistic Vehicle Trunk Storage](https://github.com/JDimensional/SOD2-Mods/raw/master/Realistic%20Vehicle%20Trunk%20Storage.zip) | Changes the trunk storage capacity of every regular vehicle. | ColDisco |
+| [Vehicle Trunk Storage Pack](https://github.com/JDimensional/SOD2-Mods/raw/master/Vehicle%20Trunk%20Storage%20Pack.zip) | Changes the trunk storage capacity of every vehicle in State of Decay 2. Realistic and Large versions available. | ColDisco / JDimensional |
 | [Hard Mode 420](https://github.com/JDimensional/SOD2-Mods/raw/master/Hard%20Mode%20420.zip) | Changes zombie spawns to make the game incredibly difficult. | Bulbasaur |
